@@ -1,0 +1,1 @@
+{"tfidf_shape": "(8111, 5000)", "word2vec_shape": "(8111, 100)", "mini_sbert_shape": "(8111, 384)", "train_samples": "8111", "val_samples": "1432", "test_samples": "2388", "class_weights": "{0: 2.2052746057640022, 1: 1.6546307629538963, 2: 0.5148860534501365}"}
